@@ -138,7 +138,7 @@ $title = "Package List";
 						if ($user_online == true) {
 						print '
 						    <li><a href="logout.php">logout</a></li>
-							<li><a href="'.$myrole.'">Profile</a></li>';
+							<li><a href="'.$myrole.'">Dashboard</a></li>';
 						}else{
 						print '
 							<li><a href="login.php">login</a></li>
